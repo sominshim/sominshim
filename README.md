@@ -7,7 +7,15 @@
 
 - 📫 How to reach me **shimsomin20@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+- 🌱 I’m currently learning everything **Data Science / ML/ DL**
+
+### 🛠 I code using
+<!-- 
+![Python](https://img.shields.io/badge/-Python-05122A?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-05122A?&logo=MySQL)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+
+<h3 align="left">Languages and Tools:</h3> -->
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>  
@@ -36,6 +44,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sominshim&show_icons=true&locale=en" alt="sominshim" /></p>
+
 
 
 <!--
