@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somin Shim</h1>
 <h3 align="center">I want to be a Data Analyst</h3>
- 
+   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sominshim&label=Profile%20views&color=0e75b6&style=flat" alt="sominshim" /> </p>
 
 - 📝 I regularly write articles on **[my blog](https://sominshim.github.io/)**
